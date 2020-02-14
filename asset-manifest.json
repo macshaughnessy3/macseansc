@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/macseansc/static/css/main.0abdcc87.chunk.css",
-    "main.js": "/macseansc/static/js/main.083df311.chunk.js",
-    "main.js.map": "/macseansc/static/js/main.083df311.chunk.js.map",
-    "runtime-main.js": "/macseansc/static/js/runtime-main.c78c7530.js",
-    "runtime-main.js.map": "/macseansc/static/js/runtime-main.c78c7530.js.map",
-    "static/css/2.47e06e2e.chunk.css": "/macseansc/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.47fdd4cb.chunk.js": "/macseansc/static/js/2.47fdd4cb.chunk.js",
-    "static/js/2.47fdd4cb.chunk.js.map": "/macseansc/static/js/2.47fdd4cb.chunk.js.map",
-    "index.html": "/macseansc/index.html",
-    "precache-manifest.23c40438493a8e4f6b5d645d292503c0.js": "/macseansc/precache-manifest.23c40438493a8e4f6b5d645d292503c0.js",
-    "service-worker.js": "/macseansc/service-worker.js",
-    "static/css/2.47e06e2e.chunk.css.map": "/macseansc/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.0abdcc87.chunk.css.map": "/macseansc/static/css/main.0abdcc87.chunk.css.map",
-    "static/js/2.47fdd4cb.chunk.js.LICENSE.txt": "/macseansc/static/js/2.47fdd4cb.chunk.js.LICENSE.txt",
-    "static/media/LemEdits.jpg": "/macseansc/static/media/LemEdits.6df1109d.jpg",
-    "static/media/loading.gif": "/macseansc/static/media/loading.188bb7e8.gif",
-    "static/media/logo.svg": "/macseansc/static/media/logo.5d5d9eef.svg"
+    "main.css": "/lemgraphics/static/css/main.0abdcc87.chunk.css",
+    "main.js": "/lemgraphics/static/js/main.0326ff04.chunk.js",
+    "main.js.map": "/lemgraphics/static/js/main.0326ff04.chunk.js.map",
+    "runtime-main.js": "/lemgraphics/static/js/runtime-main.ad7bfa15.js",
+    "runtime-main.js.map": "/lemgraphics/static/js/runtime-main.ad7bfa15.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/lemgraphics/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.47fdd4cb.chunk.js": "/lemgraphics/static/js/2.47fdd4cb.chunk.js",
+    "static/js/2.47fdd4cb.chunk.js.map": "/lemgraphics/static/js/2.47fdd4cb.chunk.js.map",
+    "index.html": "/lemgraphics/index.html",
+    "precache-manifest.d2a54ff7f4127a777e8841af331e248f.js": "/lemgraphics/precache-manifest.d2a54ff7f4127a777e8841af331e248f.js",
+    "service-worker.js": "/lemgraphics/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/lemgraphics/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.0abdcc87.chunk.css.map": "/lemgraphics/static/css/main.0abdcc87.chunk.css.map",
+    "static/js/2.47fdd4cb.chunk.js.LICENSE.txt": "/lemgraphics/static/js/2.47fdd4cb.chunk.js.LICENSE.txt",
+    "static/media/LemEdits.jpg": "/lemgraphics/static/media/LemEdits.6df1109d.jpg",
+    "static/media/loading.gif": "/lemgraphics/static/media/loading.188bb7e8.gif",
+    "static/media/logo.svg": "/lemgraphics/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c78c7530.js",
+    "static/js/runtime-main.ad7bfa15.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.47fdd4cb.chunk.js",
     "static/css/main.0abdcc87.chunk.css",
-    "static/js/main.083df311.chunk.js"
+    "static/js/main.0326ff04.chunk.js"
   ]
 }
