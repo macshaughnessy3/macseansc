@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/macseansc/static/css/main.d1b05096.chunk.css",
+    "main.js": "/macseansc/static/js/main.9ab5e02e.chunk.js",
+    "main.js.map": "/macseansc/static/js/main.9ab5e02e.chunk.js.map",
+    "runtime-main.js": "/macseansc/static/js/runtime-main.c78c7530.js",
+    "runtime-main.js.map": "/macseansc/static/js/runtime-main.c78c7530.js.map",
+    "static/js/2.412ca9a7.chunk.js": "/macseansc/static/js/2.412ca9a7.chunk.js",
+    "static/js/2.412ca9a7.chunk.js.map": "/macseansc/static/js/2.412ca9a7.chunk.js.map",
+    "index.html": "/macseansc/index.html",
+    "precache-manifest.d9cbcadc2bb1b0268b0326993e75cac9.js": "/macseansc/precache-manifest.d9cbcadc2bb1b0268b0326993e75cac9.js",
+    "service-worker.js": "/macseansc/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/macseansc/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.412ca9a7.chunk.js.LICENSE.txt": "/macseansc/static/js/2.412ca9a7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/macseansc/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c78c7530.js",
+    "static/js/2.412ca9a7.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.9ab5e02e.chunk.js"
+  ]
+}
